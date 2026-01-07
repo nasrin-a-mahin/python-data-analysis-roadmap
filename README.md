@@ -61,9 +61,11 @@ The datasets used in this repository are sourced from Kaggle and are used strict
 ## 🎯 Goal
 To build a strong foundation in data analysis and create a job-ready portfolio.
 
+
+
 ## 📂 Repository Structure
 
-
+```text
 30-days-python-data-analysis/
 │
 ├── Week-01-Python-Foundations/
@@ -80,7 +82,7 @@ To build a strong foundation in data analysis and create a job-ready portfolio.
 │   ├── Day-09-NumPy-Basics.ipynb
 │   ├── Day-10-NumPy-Operations.ipynb
 │   ├── Day-11-NumPy-Advanced.ipynb
-│   ├── Mini-Project-Sales-Analysis-NumPy.ipynb
+│   └── Mini-Project-Sales-Analysis-NumPy.ipynb
 │
 ├── Week-03-Pandas-Data-Analysis/
 │   ├── Day-15-Pandas-Basics.ipynb
@@ -106,6 +108,18 @@ To build a strong foundation in data analysis and create a job-ready portfolio.
 ├── requirements.txt
 └── README.md
 
+
+✅ This will render **perfectly aligned** on GitHub.
+
+---
+
+## ⭐ Optional polish (makes it even better)
+
+Add **one line below the structure**:
+
+```md
+Each folder contains Jupyter notebooks with explanations, practice exercises, and mini projects.
+
 ---
 ## 📌 Curriculum Coverage & Skill Roadmap
 
@@ -128,3 +142,7 @@ Some advanced topics are planned for future expansion.
 
 -----
 ⭐ If you find this repository useful, feel free to star it!
+
+
+## 📜 License
+This project is licensed under the MIT License.
