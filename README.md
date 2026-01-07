@@ -109,16 +109,15 @@ To build a strong foundation in data analysis and create a job-ready portfolio.
 └── README.md
 
 
-✅ This will render **perfectly aligned** on GitHub.
+
 
 ---
 
-## ⭐ Optional polish (makes it even better)
+## ⭐ 
+Each folder contains Jupyter notebooks with explanations, practice exercises, and mini projects.
 
-Add **one line below the structure**:
 
 ```md
-Each folder contains Jupyter notebooks with explanations, practice exercises, and mini projects.
 
 ---
 ## 📌 Curriculum Coverage & Skill Roadmap
