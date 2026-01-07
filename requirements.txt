@@ -1,0 +1,69 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+jupyterlab
+openpyxl
+missingno
+
+
+
+30-days-python-data-analysis/
+│
+├── Week-01-Python-Foundations/
+│   ├── Day-01-Python-Basics.ipynb
+│   ├── Day-02-Conditions.ipynb
+│   ├── Day-03-Loops.ipynb
+│   ├── Day-04-Lists-Tuples.ipynb
+│   ├── Day-05-Sets-Dictionaries.ipynb
+│   ├── Day-06-Functions.ipynb
+│   └── Mini-Project-Student-Result-Analyzer.ipynb
+│
+├── Week-02-NumPy-Data-Handling/
+│   ├── Day-08-File-Handling.ipynb
+│   ├── Day-09-NumPy-Basics.ipynb
+│   ├── Day-10-NumPy-Operations.ipynb
+│   ├── Day-11-NumPy-Advanced.ipynb
+│   ├── Mini-Project-Sales-Analysis-NumPy.ipynb
+│
+├── Week-03-Pandas-Data-Analysis/
+│   ├── Day-15-Pandas-Basics.ipynb
+│   ├── Day-16-Data-Selection.ipynb
+│   ├── Day-17-Data-Cleaning.ipynb
+│   ├── Day-18-GroupBy-Aggregation.ipynb
+│   ├── Day-19-Merge-Join.ipynb
+│   └── Mini-Project-Employee-Salary-Analysis.ipynb
+│
+├── Week-04-Pandas-Data-Analysis/
+│   ├── Day-22-Matplotlib.ipynb
+│   ├── Day-23-Seaborn.ipynb
+│   ├── Day-24-Statistics-Basics.ipynb
+│   ├── Day-25-SQL-with-Python.ipynb
+│   ├── End-to-End-Sales-Dashboard.ipynb
+│   └── Final-Capstone-Project.ipynb
+│
+├── datasets/
+│   ├── sales_data.csv
+│   ├── student_marks.csv
+│   └── employee_data.csv
+│
+├── requirements.txt
+└── README.md
+
+
+
+| Skill Area                                 | Status in Curriculum       | Notes                                                                                                      |
+| ------------------------------------------ | -------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Data Cleaning & Preprocessing**          | Partially (Day-17)         | Should include handling missing values, outliers, duplicates, data type conversion, normalization/scaling. |
+| **Advanced Pandas**                        | Some (GroupBy, Merge)      | Missing pivot tables, multi-indexing, reshaping (`melt`, `pivot`), categorical handling.                   |
+| **Time Series Analysis**                   | ❌ Not covered              | Companies need working with `datetime`, resampling, rolling windows, trends.                               |
+| **Feature Engineering**                    | ❌ Not covered              | Creating new columns, encoding categorical data, handling text data.                                       |
+| **Intermediate/Advanced Statistics**       | Basic only (Day-24)        | Missing probability distributions, correlation analysis, hypothesis testing, regression basics.            |
+| **Data Visualization – Advanced**          | Basic (Matplotlib/Seaborn) | Missing interactive visualization (`plotly`, `dash`) or dashboard creation skills.                         |
+| **SQL – Advanced Queries**                 | Limited (Day-25)           | Real-world needs joins, subqueries, window functions, aggregates.                                          |
+| **Machine Learning / Predictive Modeling** | ❌ Not covered              | Companies often expect basics of supervised/unsupervised learning.                                         |
+| **Version Control / Git**                  | ❌ Not covered              | Essential for team collaboration.                                                                          |
+| **Data Pipeline / Automation**             | ❌ Not covered              | Reading, cleaning, analyzing, and saving results programmatically.                                         |
+| **Big Data / APIs**                        | ❌ Not covered              | Handling large datasets, APIs, or connecting Python to cloud storage.                                      |
