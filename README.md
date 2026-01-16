@@ -1,7 +1,8 @@
 
-# 📊 30-Day Python Data Analysis Journey
+# 📊  Python Data Analysis Roadmap (30+ Days, Industry Aligned)
 
-This repository documents my **30-day learning journey in Python Data Analysis**.
+
+This repository documents my **Python Data Analysis Roadmap (30+ Days, Industry Aligned)**.
 It includes hands-on practice, mini projects, and end-to-end analysis using real-world datasets.
 
 ## 🚀 Skills Covered
@@ -100,6 +101,23 @@ To build a strong foundation in data analysis and create a job-ready portfolio.
 │   ├── End-to-End-Sales-Dashboard.ipynb
 │   └── Final-Capstone-Project.ipynb
 │
+├── Week-05-EDA-Data-Cleaning/
+│   ├── eda-process.ipynb
+│   ├── missing-values-outliers.ipynb
+│   ├── univariate-bivariate-analysis.ipynb
+│   └── eda-mini-project-business-insights.ipynb
+│
+├── Week-06-Feature-Engineering/
+│   ├── feature-creation.ipynb
+│   ├── categorical-binning.ipynb
+│   ├── date-time-features.ipynb
+│   └── feature-engineering-project.ipynb
+│
+├── Week-07-Time-Series-Analysis/
+│   ├── datetime-handling.ipynb
+│   ├── trend-seasonality.ipynb
+│   ├── rolling-window-analysis.ipynb
+│   └── time-series-sales-analysis.ipynb
 ├── datasets/
 │   ├── sales_data.csv
 │   ├── student_marks.csv
@@ -109,7 +127,53 @@ To build a strong foundation in data analysis and create a job-ready portfolio.
 └── README.md
 
 
+---
 
+## 🔄 Extended Roadmap (Industry-Aligned Skills)
+
+After completing the initial 30-day Python Data Analysis plan, this roadmap was extended to cover essential real-world Data Analyst skills.
+
+### 📊 Week 5 — Exploratory Data Analysis (EDA)
+- EDA process and mindset
+- Handling missing values and outliers
+- Univariate & bivariate analysis
+- Correlation analysis
+- Business-focused insights
+
+**Mini Project:** EDA on sales or customer dataset
+
+---
+
+### 🛠 Week 6 — Feature Engineering (For Analysts)
+- Creating business-driven features
+- Date & time feature extraction
+- Binning and categorization
+- Aggregations and ratios
+- Feature interpretation (not ML-focused)
+
+**Mini Project:** Feature creation for customer analytics
+
+---
+
+### ⏳ Week 7 — Time Series Analysis (Analyst Level)
+- Datetime handling in Pandas
+- Trend & seasonality analysis
+- Rolling averages and growth metrics
+- Month-over-month / Year-over-year analysis
+
+**Mini Project:** Time-based sales performance analysis
+
+---
+
+## 🎯 Role Alignment
+
+This repository is aligned with **Data Analyst** roles and focuses on:
+- Data cleaning & EDA
+- Feature creation for insights
+- Visualization & reporting
+- Time-based trend analysis
+
+Advanced machine learning and deep learning topics are intentionally excluded and covered separately in a dedicated Data Science roadmap.
 
 ---
 
@@ -117,7 +181,11 @@ To build a strong foundation in data analysis and create a job-ready portfolio.
 Each folder contains Jupyter notebooks with explanations, practice exercises, and mini projects.
 
 
-```md
+## 🔧 Version Control
+- GitHub for project versioning
+- Clean commit history
+- Project documentation with README
+
 
 ---
 ## 📌 Curriculum Coverage & Skill Roadmap
@@ -129,15 +197,13 @@ Some advanced topics are planned for future expansion.
 |------------------------------------------|----------------------------|------|
 | Data Cleaning & Preprocessing             | ✅ Basic (Day-17)          | Handling missing values, duplicates, and data type conversion |
 | Advanced Pandas                           | 🟡 Partial                 | GroupBy and Merge covered; pivot tables and reshaping planned |
-| Time Series Analysis                     | ❌ Not covered yet         | Planned: datetime handling, resampling, rolling windows |
-| Feature Engineering                      | ❌ Not covered yet         | Planned: encoding, text processing, new feature creation |
-| Statistics (Intermediate/Advanced)       | 🟡 Basic                   | Mean, median, std covered; hypothesis testing planned |
-| Data Visualization (Advanced)            | 🟡 Basic                   | Matplotlib & Seaborn covered; Plotly/Dashboard planned |
-| SQL (Advanced Queries)                   | 🟡 Introductory            | Basic SELECT & GROUP BY; joins and window functions planned |
-| Machine Learning                         | ❌ Not covered yet         | Planned as a future extension |
-| Version Control (Git)                    | ❌ Not covered yet         | Planned: Git workflows & best practices |
-| Data Pipelines / Automation              | ❌ Not covered yet         | Planned: end-to-end automation scripts |
-| Big Data / APIs                          | ❌ Not covered yet         | Planned: APIs, large datasets, cloud data |
+| Time Series Analysis                      | 🟡 Analyst Level           | Trend, seasonality, rolling metrics |
+| Feature Engineering                       | 🟡 Analyst Level           | Business-driven feature creation |
+| Statistics (Intermediate/Advanced)        | 🟡 Basic                    | Mean, median, std covered; hypothesis testing planned |
+| Data Visualization (Advanced)             | 🟡 Basic                    | Matplotlib & Seaborn covered; Plotly/Dashboard planned |
+| SQL (Advanced Queries)                    | 🟡 Introductory             | Basic SELECT & GROUP BY; joins and window functions planned |
+| Data Pipelines / Automation               | ❌ Not covered yet          | Planned: end-to-end automation scripts |
+| Big Data / APIs                           | ❌ Not covered yet          | Planned: APIs, large datasets, cloud data |
 
 -----
 ⭐ If you find this repository useful, feel free to star it!

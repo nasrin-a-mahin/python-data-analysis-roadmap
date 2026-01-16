@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer_ID,Gender,Age,Region,Product_Category,Sales,Profit,Quantity,Discount
+10001,2025-01-03,CUST001,Female,34,North,Electronics,1500,300,1,0.10
+10002,2025-01-04,CUST002,Male,27,South,Clothing,450,50,2,0.05
+10003,2025-01-04,CUST003,Female,42,East,Home & Kitchen,820,120,1,0.15
+10004,2025-01-05,CUST001,Female,34,North,Electronics,2200,500,1,0.20
+10005,2025-01-06,CUST004,Male,31,West,Sports,610,80,1,0.00
+10006,2025-01-07,CUST005,Female,29,South,Clothing,350,-20,1,0.25
+10007,2025-01-07,CUST006,Male,45,North,Electronics,1800,400,1,0.05
+10008,2025-01-08,CUST007,Female,38,East,Home & Kitchen,950,150,2,0.10
+10009,2025-01-09,CUST008,Male,52,West,Sports,700,90,1,0.00
+10010,2025-01-10,CUST009,Female,47,South,Electronics,1325,260,1,0.15
