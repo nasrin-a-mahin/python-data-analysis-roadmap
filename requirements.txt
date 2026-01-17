@@ -12,7 +12,3 @@ missingno
 
 
 
-# upcoming
-# Week-05-Advanced-Pandas-Time-Series/
-# Week-06-ML-Basics/
-# Week-07-Data-Pipelines-Git/

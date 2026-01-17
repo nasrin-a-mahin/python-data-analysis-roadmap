@@ -67,7 +67,7 @@ To build a strong foundation in data analysis and create a job-ready portfolio.
 ## 📂 Repository Structure
 
 ```text
-30-days-python-data-analysis/
+python-data-analysis/
 │
 ├── Week-01-Python-Foundations/
 │   ├── Day-01-Python-Basics.ipynb
