@@ -123,6 +123,7 @@ python-data-analysis/
 │   ├── student_marks.csv
 │   └── employee_data.csv
 │
+├── resources
 ├── requirements.txt
 └── README.md
 
